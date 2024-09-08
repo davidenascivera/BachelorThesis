@@ -2,7 +2,7 @@
 # Infrared Signal Devices for Aerial Obstacles
 
 ![Render and Photograph of Infrared Signal Device](images/bussolotto.png)
-
+![Render and Photograph of Infrared Signal Device](images/test.png)
 ## Abstract
 
 This project focuses on the design and development of **infrared signal devices** for aerial obstacle detection, aimed at improving the safety of temporary installations, such as **Highline** structures. Inspired by Swiss regulations for aerial navigation, these devices are designed to emit infrared light visible to night-vision equipment, particularly for helicopters used in rescue operations. The main goal is to offer an **open-source**, low-cost alternative to commercial infrared signal devices, which are often prohibitively expensive for nonprofit slackline communities.
