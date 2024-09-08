@@ -1,7 +1,7 @@
 
 # Infrared Signal Devices for Aerial Obstacles
 
-![Render and Photograph of Infrared Signal Device](image.png)
+![Render and Photograph of Infrared Signal Device](images/bussolotto.png)
 
 ## Abstract
 
@@ -32,6 +32,10 @@ This repository contains the design files, schematics, and necessary documentati
 2. **Assemble Components**: Follow the schematic in the `/schematics` folder to solder the necessary components to the PCB.
 3. **Install the Electronics in the Case**: The device case is designed for ease of access, with removable top and bottom covers for maintenance.
 4. **Power On**: Once assembled, insert the battery, charge it via the USB-C port, and press the power button to activate the device.
+
+
+![PCB of the system](images/scheda.png)
+
 
 ## Testing and Validation
 
