@@ -55,9 +55,3 @@ For more detailed information on the project, please refer to the following file
 This project is open-source under the **MIT License**. Feel free to modify and adapt the design for your specific needs.
 """
 
-# Save the content to a markdown file
-file_path = '/mnt/data/README.md'
-with open(file_path, 'w') as f:
-    f.write(readme_content)
-
-file_path  # Return the file path so the user can download it.
