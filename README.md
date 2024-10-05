@@ -11,6 +11,16 @@ This project focuses on the design and development of **infrared signal devices*
 
 This repository contains the design files, schematics, and necessary documentation to build a fully operational infrared signal device, as developed in my Bachelor's thesis. The device has undergone several iterations, leading to the final version described below.
 
+## Documentation
+
+For more detailed information on the project, please refer to the following files:
+
+- [Project Summary](Documentation/eng_summary.pdf)
+- [Full_thesis](Documentation/eng_full_thesis)
+
+Please note that the document was originally written in Italian and later translated for publication here.
+
+
 ### Features
 
 - **Compact Design**: Comparable to a smartphone in size, the device is easy to transport and install.
@@ -47,14 +57,7 @@ The device was tested in collaboration with the **Trento Helicopter Rescue Unit*
 - **Integrated Battery Management System (BMS)**: Incorporating the BMS directly into the PCB for a more seamless design.
 - **Larger-Scale Production**: The current design is optimized for small-scale production, but further improvements can make it scalable for mass production.
 
-## Documentation
 
-For more detailed information on the project, please refer to the following files:
-
-- [Project Summary](Documentation/eng_summary.pdf)
-- [Full_thesis](Documentation/eng_full_thesis)
-
-Please note that the document was originally written in Italian and later translated for publication here.
 ## License
 
 
