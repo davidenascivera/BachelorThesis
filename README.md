@@ -51,10 +51,12 @@ The device was tested in collaboration with the **Trento Helicopter Rescue Unit*
 
 For more detailed information on the project, please refer to the following files:
 
-- [Project Summary](SINTESI__Dispositivi_di_segnalazione_a_luce_infrarossa.pdf)
-- [Image of the Final Prototype](image.png)
+- [Project Summary](eng_summary.pdf)
+- [Full_thesis](eng_full_thesis)
 
+Please note that the document was originally written in Italian and later translated for publication here.
 ## License
+
 
 This project is open-source under the **MIT License**. Feel free to modify and adapt the design for your specific needs.
 """
